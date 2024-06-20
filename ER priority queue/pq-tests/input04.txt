@@ -1,0 +1,16 @@
+enqueue,John Malkovich,1953,3
+enqueue,John Wayne,1907,2
+enqueue,John Bishop,1966,1
+enqueue,John Glover,1944,4
+enqueue,John Cusack,1966,1
+enqueue,John Rhys-Davies,1944,2
+enqueue,John Oliver,1977,3
+enqueue,Johnny Depp,1963,2
+enqueue,John Michael Higgins,1966,4
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue,Ava Gardner,1922,4
+enqueue,Marilyn Monroe,1926,1
+enqueue,Greta Garbo,1905,3

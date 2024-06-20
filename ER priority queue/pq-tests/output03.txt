@@ -1,0 +1,6 @@
+Number of patients: 5
+Johnny Depp,1963,2
+John Malkovich,1953,3
+John Oliver,1977,3
+John Glover,1944,4
+John Michael Higgins,1966,4

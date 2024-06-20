@@ -1,0 +1,10 @@
+Number of patients: 9
+John Cusack,1966,1
+John Bishop,1966,1
+John Wayne,1907,2
+John Rhys-Davies,1944,2
+Johnny Depp,1963,2
+John Oliver,1977,3
+John Malkovich,1953,3
+John Michael Higgins,1966,4
+John Glover,1944,4

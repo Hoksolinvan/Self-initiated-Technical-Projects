@@ -1,0 +1,9 @@
+Number of patients: 8
+Marilyn Monroe,1926,1
+Johnny Depp,1963,2
+John Malkovich,1953,3
+John Oliver,1977,3
+Greta Garbo,1905,3
+John Glover,1944,4
+John Michael Higgins,1966,4
+Ava Gardner,1922,4
